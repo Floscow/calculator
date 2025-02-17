@@ -1,0 +1,4 @@
+TOKEN = '7563018380:AAHxkGJKEjS_wxXSqxEsWKlm5YJES3r38pg'
+BOT_NICKNAME = 'WizzardVPN_bot'
+ADMIN_USER_ID = '626475537'  # Укажи свой ID
+
